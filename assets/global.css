@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  font-family: ProximaNova;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  background-color: #18191a;
+  color: white;
+  min-height: 100vh;
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("static/fonts/proxima-nova-regular.woff");
+}
