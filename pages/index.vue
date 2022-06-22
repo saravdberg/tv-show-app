@@ -34,7 +34,6 @@
 </template>
 
 <script>
-import Vue from "vue";
 import ShowCard from "~/components/ShowCard.vue";
 
 export default {
